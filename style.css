@@ -140,7 +140,7 @@ textarea:not([rows]) {
 
 main {
   width: 80%;
-  background: #d5eafc;
+  /* background: #d5eafc; */
   align-items: center;
 }
 
